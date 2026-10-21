@@ -73,7 +73,7 @@ I'm currently looking for a **junior penetration tester** role where I can put e
 
 <div align="center">
 
-┬─[Sh4d0wSpl01t@Th33.S4mur41.H4ck3r:~]─[00:00:00 AM]
+┬─[Sh4d0wSpl01t&#64;Th33.S4mur41.H4ck3r:~]─[00:00:00 AM]<br>
 ╰─>$
 
 </div>
