@@ -7,7 +7,7 @@
 </p>
 
 ```bash
-Sh4d0wSpl01t@3xpl0174bl3:~$ cat profile.json
+Sh4d0wSpl01t@Th33.S4mur41.H4ck3r:~$ cat profile.json
 {
   "handle": "Sh4d0wSpl01t",
   "role": "Penetration Tester",
