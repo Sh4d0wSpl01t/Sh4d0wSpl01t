@@ -71,6 +71,7 @@ I'm currently looking for a **junior penetration tester** role where I can put e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathew-kamau-164801380)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Thee.Samurai.Hacker)
 
-<p align="center"><i>"┬─[Sh4d0wSpl01t@Th33.S4mur41.H4ck3r:~]─[08:21:58 PM]"</i></p>
-<p align="center"><i>╰─>$</i></p>
-
+<div class="term-clock" id="term-clock" aria-live="off">
+        <div class="tc-line">┬─[Sh4d0wSpl01t@Th33.S4mur41.H4ck3r:~]─[<span id="clock-time">00:00:00 AM</span>]</div>
+        <div class="tc-line">╰─&gt;$ <span class="tc-typed" id="tc-typed"></span><span class="tc-caret"></span></div>
+</div>
