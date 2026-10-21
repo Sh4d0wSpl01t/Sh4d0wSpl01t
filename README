@@ -1,0 +1,40 @@
+### 🕵️‍♂️ About Me:
+I am an aspiring **Web Penetration Tester** and an avid **CTF Player**. 
+I spend my time breaking into labs (ethically!), solving CTF challenges, and documenting my journey in cybersecurity. My primary focus is on web application vulnerabilities (OWASP Top 10), reconnaissance, and privilege escalation.
+
+- 🔭 I’m currently working on: **Improving my web exploitation skills**
+- 🌱 I’m currently learning: **Active Directory exploitation & Bug Bounty methodologies**
+- 👯 I’m looking to collaborate on: **CTF Teams or Open Source Security Tools**
+- 💬 Ask me about: **Web Security, Linux, CTFs, and Writeups**
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourhandle)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+### 🛠️ Security Arsenal & Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white)
+
+### 🚩 CTF Progress & Stats:
+<div align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" />
+</div>
+<br>
+<div align="left">
+  <!-- You can get this HTB badge by completing their intro academy module -->
+  <a href="https://academy.hackthebox.com/achievement/badge/YOUR_ID_HERE">
+    <img src="https://academy.hackthebox.com/storage/badges/BADGE_ID.png" alt="HTB Badge" width="100" />
+  </a>
+</div>
+
+### 📊 GitHub Stats (Security Tools & Writeups):
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact&hide_border=true)
