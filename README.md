@@ -73,5 +73,5 @@ I'm currently looking for a **junior penetration tester** role where I can put e
 
 <div class="term-clock" id="term-clock" aria-live="off">
         <div class="tc-line">┬─[Sh4d0wSpl01t@Th33.S4mur41.H4ck3r:~]─[<span id="clock-time">00:00:00 AM</span>]</div>
-        <div class="tc-line">╰─&gt;$ <span class="tc-typed" id="tc-typed"></span><span class="tc-caret"></span></div>
+        <div class="tc-line">╰─&gt;$ <span class="tc-typed" id="tc-typed">echo &quot;Enumeration is Key&quot;</span><span class="tc-caret"></span></div>
 </div>
