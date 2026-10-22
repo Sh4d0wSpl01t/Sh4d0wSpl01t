@@ -2,7 +2,7 @@
 <h3 align="center">known online as <code>Sh4d0wSpl01t</code> — Web App Penetration Tester & CTF Player</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20JUNIOR%20ROLES-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20PENTESTER%20ROLES-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BASED%20IN-Nairobi%2C%20KE-blue?style=for-the-badge" />
 </p>
 
@@ -26,7 +26,7 @@ I work out how systems function by day, and how to break them — on purpose, in
 
 TryHackMe gave me the fundamentals. VulnHub and HackMyVM took away the guardrails. Along the way I stopped just solving boxes and started writing them up properly: exact commands, screenshots, and the reasoning behind every pivot — not just the happy path.
 
-I'm currently looking for a **junior penetration tester** role where I can put ethical hacking and system hardening to work keeping real organizations secure.
+I'm currently looking for a **web app penetration tester** role where I can put ethical hacking and system hardening to work keeping real organizations secure.
 
 ## 🧠 What I Actually Do
 
