@@ -62,6 +62,7 @@ I'm currently looking for a **junior penetration tester** role where I can put e
 
 - **[St. Mathews Web Portal](https://st-mathews-junior-academy.onrender.com)** — a school management system that cut manual admin work by 90%, built with HTML, CSS, JavaScript, Python and WebSockets
 - **[0xWriteups](https://sh4d0wspl01t.github.io/writeups/index.html)** — my running log of CTF & boot2root walkthroughs across TryHackMe, VulnHub and HackMyVM: recon through root, with the receipts
+- **[Sh4d0w-ID](https://github.com/Sh4d0wSpl01t/Sh4d0w-ID)** - Your number one python hash identifier. Suitable for CTF players, penetration testers and everyone fascinated with the concept of hashing algorithms 
 - **Linux For Hackers**, **PowerShell For Hackers**, **Windows Command Line** — in-progress reference guides for offensive tooling on each platform
 
 ## 🔗 Find Me Online
