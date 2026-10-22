@@ -72,11 +72,6 @@ I'm currently looking for a **web app penetration tester** role where I can put 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathew-kamau-164801380)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Thee.Samurai.Hacker)
 
-### Badges
-<a href="https://tryhackme.com/room/mrrobot">
-  <img src="https://assets.tryhackme.com/img/badges/mrrobot.png" alt="Mr. Robot CTF Badge" width="100" />
-</a>
-
 <div class="term-clock" id="term-clock" aria-live="off">
         <div class="tc-line">┬─[Sh4d0wSpl01t@Th33.S4mur41.H4ck3r:~]─[<span id="clock-time">00:00:00 AM</span>]</div>
         <div class="tc-line">╰─&gt;$ <span class="tc-typed" id="tc-typed">echo &quot;Enumeration is Key&quot;</span><span class="tc-caret"></span></div>
