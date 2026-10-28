@@ -1,5 +1,5 @@
 <h1 align="center">Hello friend, 👋</h1>
-<h3 align="center">My name <code>Sh4d0wSpl01t</code> — Web App Penetration Tester & CTF Player</h3>
+<h3 align="center">My name is <code>Sh4d0wSpl01t</code> — Web App Penetration Tester & CTF Player</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20PENTESTER%20ROLES-brightgreen?style=for-the-badge" />
