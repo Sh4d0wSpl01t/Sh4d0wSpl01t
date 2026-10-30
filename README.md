@@ -40,7 +40,7 @@ I'm currently looking for a **web app penetration tester** role where I can put 
 |---|---|
 | 🧩 Capture the Flag machines rooted | **36** |
 | 📜 Certificates earned | **11** |
-| 🛠️ Projects shipped | **5** |
+| 🛠️ Projects shipped | **4** |
 
 **CTF results:** Top 1% finish at H7 CTF (H7TEX) · Completed BearcatCTF (Cyber@UC)
 
